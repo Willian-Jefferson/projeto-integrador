@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel3"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,3,-24,0,0,3,-23"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="930" y="490" width="-1" height="60"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Voltar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="840" y="920" width="90" height="30"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="48" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="PHP"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="380" y="100" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="36" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="for"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="400" y="170" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="150" y="260" width="660" height="540"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea2">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="lineWrap" type="boolean" value="true"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="    Os la&#xe7;os for s&#xe3;o os mais complexo no PHP. Possui comportamento semelhante ao C. A sintaxe do la&#xe7;o for &#xe9;:&#xa;&#xa;for (expr1; expr2; expr3)&#xa;    statement&#xa;A primeira express&#xe3;o (expr1) &#xe9; avaliada (executada), uma vez, incondicionalmente, no in&#xed;cio do la&#xe7;o.&#xa;&#xa;   No come&#xe7;o de cada itera&#xe7;&#xe3;o a expr2 &#xe9; avaliada. Se a avaliada como true, o la&#xe7;o continuar&#xe1; e as instru&#xe7;&#xf5;es aninhada ser&#xe3;o executadas. Se avaliada como false, a execu&#xe7;&#xe3;o do la&#xe7;o terminar&#xe1;.&#xa;&#xa;   No final de cada itera&#xe7;&#xe3;o, a expr3 &#xe9; avaliada (executada).&#xa;&#xa;   Cada uma das express&#xf5;es podem ser vazias ou conter m&#xfa;ltiplas express&#xf5;es separadas por v&#xed;rgulas. Na expr2, todas as express&#xf5;es separadas por v&#xed;rgula s&#xe3;o avaliadas mas o resultado &#xe9; obtido da &#xfa;ltima parte. Se a expr2 estiver vazia significa que o la&#xe7;o deve ser executado indefinidamente (O PHP considera implicitamente como true, igual ao C). Isto n&#xe3;o &#xe9; in&#xfa;til como se imagina, pois muitas vezes deseja-se interromper o la&#xe7;o utilizando a instru&#xe7;&#xe3;o break ao inv&#xe9;s de usar a express&#xe3;o verdade do for.&#xa;&#xa;  Analise os seguintes exemplos. Todos exibem n&#xfa;meros de 1 at&#xe9; 10:&#xa;&#xa;  &lt;?php&#xa;&#xa;  /* exemplo 1 */&#xa;&#xa;  for ($i = 1; $i &lt;= 10; $i++) {&#xa;     echo $i;&#xa;  }&#xa;&#xa;&#xa;  /* exemplo 2 */&#xa;&#xa;  for ($i = 1; ; $i++) {&#xa;     if ($i &gt; 10) {&#xa;         break;&#xa;     }&#xa;     echo $i;&#xa;  }&#xa;&#xa;/* exemplo 3 */&#xa;&#xa;$i = 1;&#xa;for (; ; ) {&#xa;    if ($i &gt; 10) {&#xa;        break;&#xa;    }&#xa;    echo $i;&#xa;    $i++;&#xa;}&#xa;&#xa;/* exemplo 4 */&#xa;&#xa;for ($i = 1, $j = 0; $i &lt;= 10; $j += $i, print $i, $i++);&#xa;?&gt;&#xa;&#xc9; claro que o primeiro exemplo aparenta ser o mais simp&#xe1;tico (ou talvez o quarto), mas pode-se achar que o uso de express&#xf5;es vazias no la&#xe7;o for, seja vantajoso em algumas ocasi&#xf5;es.&#xa;&#xa;O PHP tamb&#xe9;m suporta a sintaxe alternativa &quot;dois pontos&quot; para o la&#xe7;o for.&#xa;&#xa;for (expr1; expr2; expr3):&#xa;    statement&#xa;    ...&#xa;endfor;&#xa;&#xc9; comum, para muitos usu&#xe1;rios, iterar em arrays como no exemplo abaixo.&#xa;&#xa;&lt;?php&#xa;/*&#xa; * Esta &#xe9; uma array com alguns dados que devem ser modificadoswant to modify&#xa; * durante a execu&#xe7;ao do loop for.&#xa; */&#xa;$pessoas = array(&#xa;    array(&apos;nome&apos; =&gt; &apos;Lucas&apos;, &apos;salt&apos; =&gt; 856412),&#xa;    array(&apos;nome&apos; =&gt; &apos;Andr&#xe9;&apos;, &apos;salt&apos; =&gt; 215863)&#xa;);&#xa;&#xa;for($i = 0; $i &lt; count($pessoas); ++$i) {&#xa;    $pessoas[$i][&apos;salt&apos;] = mt_rand(000000, 999999);&#xa;}&#xa;?&gt;&#xa;O c&#xf3;digo acima pode se tornar lento, pois o tamanho do array ser&#xe1; calculado a cada itera&#xe7;&#xe3;o. Desde que o tamanho nunca mude, o la&#xe7;o pode ser facilmente otimizado usando uma vari&#xe1;vel intermedi&#xe1;ria para armazenar o tamanho ao inv&#xe9;s de executar repetidamente o count():&#xa;&#xa;&lt;?php&#xa;$pessoas = array(&#xa;    array(&apos;nome&apos; =&gt; &apos;Lucas&apos;, &apos;salt&apos; =&gt; 856412),&#xa;    array(&apos;nome&apos; =&gt; &apos;Andr&#xe9;&apos;, &apos;salt&apos; =&gt; 215863)&#xa;);&#xa;&#xa;for($i = 0, $tamanho = count($pessoas); $i &lt; $tamanho; ++$i) {&#xa;    $pessoas[$i][&apos;salt&apos;] = mt_rand(000000, 999999);&#xa;}&#xa;?&gt;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/img/Tapet-navy-silver.jpg"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="jLabel4"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1000" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>

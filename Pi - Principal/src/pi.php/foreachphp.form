@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.8" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel3"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,3,-24,0,0,3,-22"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="jButton3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="930" y="500" width="-1" height="80"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&lt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="20" y="500" width="-1" height="80"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Voltar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="840" y="920" width="90" height="30"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="48" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="PHP"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="380" y="100" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="36" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="foreach"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="370" y="160" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="150" y="260" width="660" height="540"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea2">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="lineWrap" type="boolean" value="true"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="     O construtor foreach fornece uma maneira f&#xe1;cil de iterar sobre arrays. O foreach funciona somente em arrays e objetos, e emitir&#xe1; um erro ao tentar us&#xe1;-lo em uma vari&#xe1;vel com um tipo de dado diferente ou em uma vari&#xe1;vel n&#xe3;o inicializada. Possui duas sintaxes:&#xa;&#xa;  foreach (iterable_expression as $valor)&#xa;      statement&#xa; foreach (iterable_expression as $chave =&gt; $valor)&#xa;     statement&#xa;&#xa;    A primeira forma percorre o iter&#xe1;vel dado por iterable_expression. A cada itera&#xe7;&#xe3;o, o valor do elemento atual &#xe9; atribu&#xed;do a $valor.&#xa;&#xa;    A segunda forma var, adicionalmente, atribuir a chave do elemento corrente a vari&#xe1;vel $chave a cada itera&#xe7;&#xe3;o.&#xa;&#xa;&#xa;   Note que o foreach n&#xe3;o modifica o ponteiro interno do array, que &#xe9; usado por fun&#xe7;&#xf5;es como current() e key().&#xa;&#xa;   &#xc9; poss&#xed;vel customizar a itera&#xe7;&#xe3;o em objetos.&#xa;&#xa;   Para modificar diretamente elementos de um array dentro de um la&#xe7;o, preceda $valor com &amp;. Neste caso, o valor ser&#xe1; atribu&#xed;do por refer&#xea;ncia.&#xa;&#xa;  &lt;?php&#xa;  $arr = array(1, 2, 3, 4);&#xa;  foreach ($arr as &amp;$valor) {&#xa;     $valor = $valor * 2;&#xa; }&#xa; // $arr is now array(2, 4, 6, 8)&#xa; unset($valor); // quebra a refer&#xea;ncia com o &#xfa;ltimo elemento&#xa; ?&gt;&#xa;&#xa;    (Aviso)&#xa;&#xa;   A refer&#xea;ncia ao $valor e o &#xfa;ltimo elemento do array permanecer&#xe1; inalterado mesmo ap&#xf3;s a itera&#xe7;&#xe3;o do foreach. &#xc9; recomendado destru&#xed;-lo utilizando a fun&#xe7;&#xe3;o unset(). Caso contr&#xe1;rio voc&#xea; experienciar&#xe1; o seguinte comportamento:&#xa;&#xa;  &lt;?php&#xa;  $arr = array(1, 2, 3, 4);&#xa;  foreach ($arr as &amp;$valor) {&#xa;     $valor = $valor * 2;&#xa;  }&#xa;  // $arr agora &#xe9; array(2, 4, 6, 8)&#xa;&#xa; // sem um unset($valor), $valor continuar&#xe1; como refer&#xea;ncia ao &#xfa;ltimo item: $arr[3]&#xa;&#xa; foreach ($arr as $chave =&gt; $valor) {&#xa;     // $arr[3] ser&#xe1; atualizado com cada valor de $arr...&#xa;     echo &quot;{$chave} =&gt; {$valor} &quot;;&#xa;     print_r($arr);&#xa; }&#xa; &#xa; // ...at&#xe9; que, o segundo e &#xfa;ltimo valor &#xe9; copiado para o &#xfa;ltimo valor&#xa;&#xa; // sa&#xed;da:&#xa; // 0 =&gt; 2 Array ( [0] =&gt; 2, [1] =&gt; 4, [2] =&gt; 6, [3] =&gt; 2 )&#xa; // 1 =&gt; 4 Array ( [0] =&gt; 2, [1] =&gt; 4, [2] =&gt; 6, [3] =&gt; 4 )&#xa; // 2 =&gt; 6 Array ( [0] =&gt; 2, [1] =&gt; 4, [2] =&gt; 6, [3] =&gt; 6 )&#xa; // 3 =&gt; 6 Array ( [0] =&gt; 2, [1] =&gt; 4, [2] =&gt; 6, [3] =&gt; 6 )&#xa; ?&gt;&#xa;&#xa; &#xc9; poss&#xed;vel iterar o valor de um array constante por refer&#xea;ncia&#xa;&#xa; &lt;?php&#xa; foreach (array(1, 2, 3, 4) as &amp;$valor) {&#xa;     $valor = $valor * 2;&#xa; }&#xa; ?&gt;&#xa;&#xa;  &#xa;  Nota:&#xa;&#xa;   O foreach n&#xe3;o possui suporte a habilidade de suprimir mensagens de erro utilizando @.&#xa;&#xa;   Mais alguns exemplos para demonstrar o uso:&#xa;&#xa; &lt;?php&#xa; &#xa; /* foreach example 1: value only */&#xa;&#xa; $a = array(1, 2, 3, 17);&#xa;&#xa; foreach ($a as $v) {&#xa;     echo &quot;Current value of \u005c$a: $v.\u005cn&quot;;&#xa; }&#xa;&#xa; /* foreach example 2: value (with its manual access notation printed for illus tration) */&#xa;&#xa; $a = array(1, 2, 3, 17);&#xa;&#xa; $i = 0; /* for illustrative purposes only */&#xa;&#xa; foreach ($a as $v) {&#xa;     echo &quot;\u005c$a[$i] =&gt; $v.\u005cn&quot;;&#xa;     $i++;&#xa; }&#xa;&#xa;  /* foreach example 3: key and value */&#xa;&#xa;  $a = array(&#xa;      &quot;one&quot; =&gt; 1,&#xa;      &quot;two&quot; =&gt; 2,&#xa;      &quot;three&quot; =&gt; 3,&#xa;      &quot;seventeen&quot; =&gt; 17&#xa;  );&#xa;&#xa;  foreach ($a as $k =&gt; $v) {&#xa;    echo &quot;\u005c$a[$k] =&gt; $v.\u005cn&quot;;&#xa;}&#xa;&#xa;  /* foreach example 4: multi-dimensional arrays */&#xa;  $a = array();&#xa;  $a[0][0] = &quot;a&quot;;&#xa;  $a[0][1] = &quot;b&quot;;&#xa;  $a[1][0] = &quot;y&quot;;&#xa;  $a[1][1] = &quot;z&quot;;&#xa;&#xa; foreach ($a as $v1) {&#xa;     foreach ($v1 as $v2) {&#xa;         echo &quot;$v2\u005cn&quot;;&#xa;     }&#xa; }&#xa;&#xa;  /* foreach example 5: dynamic arrays */&#xa;&#xa;  foreach (array(1, 2, 3, 4, 5) as $v) {&#xa;      echo &quot;$v\u005cn&quot;;&#xa; }&#xa; ?&gt;&#xa;&#xa;  Desempacotando arrays aninhados com o construtor list() &#xb6;&#xa; (PHP 5 &gt;= 5.5.0, PHP 7, PHP 8)&#xa;&#xa;   &#xc9; poss&#xed;vel iterar sobre um array de arrays e desempacotar arrays aninhados em vari&#xe1;veis do la&#xe7;o fornecendo o construtor list() como valor.&#xa;&#xa;  Por exemplo:&#xa;&#xa;  &lt;?php&#xa;  $array = [&#xa;     [1, 2],&#xa;     [3, 4],&#xa; ];&#xa;&#xa; foreach ($array as list($a, $b)) {&#xa;     // $a cont&#xe9;m o primeiro elemento do array aninhado,&#xa;     // e $b cont&#xe9;m o segundo elemento.&#xa;     echo &quot;A: $a; B: $b\u005cn&quot;;&#xa; }&#xa; ?&gt;&#xa;&#xa;  O exemplo acima ir&#xe1; imprimir:&#xa;&#xa; A: 1; B: 2&#xa; A: 3; B: 4&#xa;&#xa;   Pode-se se fornecer menos elementos ao construtor list() aos que existem no array aninhado, neste caso, os valores do array que sobrarem ser&#xe3;o ignorados.&#xa;&#xa; &lt;?php&#xa; $array = [&#xa;     [1, 2],&#xa;     [3, 4],&#xa; ];&#xa;&#xa; foreach ($array as list($a)) {&#xa;     // Note that there is no $b here.&#xa;     echo &quot;$a\u005cn&quot;;&#xa; }&#xa; ?&gt;&#xa;&#xa;   O exemplo acima ir&#xe1; imprimir:&#xa;&#xa; 1&#xa; 3&#xa;&#xa;  Um aviso ser&#xe1; gerado se n&#xe3;o houver elementos suficientes no array para o preenchimento do construtor list():&#xa;&#xa; &lt;?php&#xa; $array = [&#xa;     [1, 2],&#xa;     [3, 4],&#xa; ];&#xa;&#xa; foreach ($array as list($a, $b, $c)) {&#xa;     echo &quot;A: $a; B: $b; C: $c\u005cn&quot;;&#xa; }&#xa; ?&gt;&#xa; &#xa;  O exemplo acima ir&#xe1; imprimir:&#xa;&#xa;&#xa; Notice: Undefined offset: 2 in example.php on line 7&#xa; A: 1; B: 2; C:&#xa;&#xa; Notice: Undefined offset: 2 in example.php on line 7&#xa; A: 3; B: 4; C:" containsInvalidXMLChars="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/img/Tapet-navy-silver.jpg"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="jLabel4"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1000" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.8" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel3"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,3,-24,0,0,3,-22"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="jButton3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&lt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="30" y="490" width="-1" height="80"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="930" y="490" width="-1" height="80"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Voltar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="840" y="920" width="90" height="30"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="48" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="PHP"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="400" y="90" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="36" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Atribui&#xe7;&#xe3;o"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="350" y="150" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="150" y="260" width="660" height="540"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea2">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="lineWrap" type="boolean" value="true"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="     O operador b&#xe1;sico de atribui&#xe7;&#xe3;o &#xe9; &quot;=&quot;. A sua primeira inclina&#xe7;&#xe3;o deve ser a de pensar nisto como &quot;&#xe9; igual&quot;. N&#xe3;o. Isto quer dizer, na verdade, que o operando da esquerda recebe o valor da express&#xe3;o da direita (ou seja, &quot;&#xe9; definido para&quot;).&#xa;&#xa;     O valor de uma express&#xe3;o de atribui&#xe7;&#xe3;o &#xe9; o valor atribu&#xed;do. Ou seja, o valor de &quot;$a = 3&quot; &#xe9; 3. Isto permite que voc&#xea; fa&#xe7;a alguns truques:&#xa;&#xa;  &lt;?php&#xa;&#xa;  $a = ($b = 4) + 5; // $a &#xe9; igual a 9 agora e $b foi definido como 4.&#xa;&#xa; ?&gt;&#xa;&#xa;   Al&#xe9;m do operador b&#xe1;sico de atribui&#xe7;&#xe3;o, h&#xe1; &quot;operadores combinados&quot; para todos os operadores aritm&#xe9;ticos, de array e string que permitem a voc&#xea; pegar um valor de uma express&#xe3;o e ent&#xe3;o usar seu pr&#xf3;prio valor para o resultado daquela express&#xe3;o. Por exemplo:&#xa;&#xa;  &lt;?php&#xa;&#xa;  $a = 3;&#xa;  $a += 5; // define $a para 8, como se diss&#xe9;ssemos: $a = $a + 5;&#xa;  $b = &quot;Bom &quot;;&#xa;  $b .= &quot;Dia!&quot;; // define $b para &quot;Bom Dia!&quot;, como em $b = $b . &quot;Dia!&quot;;&#xa;&#xa;  ?&gt;&#xa;&#xa;   Note que a atribui&#xe7;&#xe3;o copia a vari&#xe1;vel original para a nova (atribui&#xe7;&#xe3;o por valor), assim a mudan&#xe7;a de uma n&#xe3;o afeta a outra. Isto pode ser relevante se voc&#xea; precisa copiar algo como uma grande matriz dentro de um loop apertado.&#xa;&#xa;   Uma exce&#xe7;&#xe3;o ao comportamento geral de atribui&#xe7;&#xe3;o ocorre com objetos, que s&#xe3;o atribu&#xed;dos por refer&#xea;ncia no PHP 5. Objetos podem ser explicitamente copiados atrav&#xe9;s da instru&#xe7;&#xe3;o clone.&#xa;&#xa;  Atribui&#xe7;&#xe3;o por refer&#xea;ncia &#xb6;&#xa;&#xa;  Atribui&#xe7;&#xe3;o por refer&#xea;ncia tamb&#xe9;m &#xe9; poss&#xed;vel, utilizando-se a sintaxe &quot;$var = &amp;$outravar;&quot;. A atribui&#xe7;&#xe3;o por refer&#xea;ncia significa que ambas as vari&#xe1;veis apontam para o mesmo dado, e nada &#xe9; copiado.&#xa;&#xa;  Exemplo #1 Atribui&#xe7;&#xe3;o por refer&#xea;ncia&#xa;&#xa; &lt;?php&#xa; $a = 3;&#xa; $b = &amp;$a; // $b &#xe9; uma refer&#xea;ncia de $a&#xa;&#xa; print &quot;$a\u005cn&quot;; // imprime 3&#xa; print &quot;$b\u005cn&quot;; // imprime 3&#xa;&#xa; $a = 4; // modificamos $a&#xa;&#xa; print &quot;$a\u005cn&quot;; // imprime 4&#xa; print &quot;$b\u005cn&quot;; // imprime 4 tamb&#xe9;m, pois $b &#xe9; uma refer&#xea;ncia de $a, que foi&#xa;              // modificada&#xa; ?&gt;&#xa;&#xa; A partir do PHP 5 o operador new retorna uma refer&#xea;ncia automaticamente, de forma que a atribui&#xe7;&#xe3;o de um resultado de new por refer&#xea;ncia gera um alerta E_DEPRECATED no PHP 5.3 e posteriores, e um alerta E_STRICT nas vers&#xf5;es anteriores.&#xa;&#xa; Por exemplo, esse c&#xf3;digo ir&#xe1; gerar um alerta:&#xa;&#xa; &lt;?php&#xa; class C {}&#xa;&#xa; /* A linha seguinte gera a mensagem:&#xa;  * Deprecated: Assigning the return value of new by reference is deprecated in ...&#xa;  */&#xa; $o = &amp;new C;&#xa; ?&gt;" containsInvalidXMLChars="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/img/Tapet-navy-silver.jpg"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="jLabel4"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1000" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>

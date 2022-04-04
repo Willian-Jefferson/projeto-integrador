@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel3"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,3,-24,0,0,3,-20"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="jButton3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&lt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="20" y="460" width="-1" height="90"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="920" y="470" width="-1" height="90"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Voltar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="840" y="920" width="90" height="30"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="48" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="PHP"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="380" y="100" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="36" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="switch"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="380" y="170" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="150" y="260" width="660" height="540"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea2">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="    A declara&#xe7;&#xe3;o switch &#xe9; similar a uma s&#xe9;rie de declara&#xe7;&#xf5;es IF na mesma express&#xe3;o. Em muitos casos, &#xa;se deseja comparar as mesmas vari&#xe1;veis (ou express&#xf5;es), com diferentes valores, e executar peda&#xe7;os &#xa;diferentes de c&#xf3;digo dependendo de qual valor ela &#xe9; igual. Esta &#xe9; exatamente a serventia da declara&#xe7;&#xe3;o switch.&#xa;&#xa;    Nota: Note que ao contr&#xe1;rio de outras linguagens, a declara&#xe7;&#xe3;o continue aplica-se ao switch e age similarmente &#xa;ao break. Se possuir um switch dentro de um la&#xe7;o, e deseja continuar na pr&#xf3;xima itera&#xe7;&#xe3;o do la&#xe7;o externo, utilize &#xa;continue 2.&#xa;&#xa;   Nota:&#xa;&#xa;   Note que o switch/case faz compara&#xe7;&#xe3;o frouxa.&#xa;&#xa;   Os dois exemplos a seguir demonstram duas formas diferentes de escrever a mesma coisa, uma usando uma s&#xe9;rie &#xa;de declara&#xe7;&#xf5;es if e elseif, e a outra usando a declara&#xe7;&#xe3;o switch:&#xa;&#xa;  &#xa;     Exemplo #1 Estrutura do switch&#xa;&#xa;  &#xa;   &lt;?php&#xa;   if ($i == 0) {&#xa;       echo &quot;i &#xe9; igual a 0&quot;;&#xa;   } elseif ($i == 1) {&#xa;       echo &quot;i &#xe9; igual a 1&quot;;&#xa;   } elseif ($i == 2) {&#xa;       echo &quot;i &#xe9; igual a 2&quot;;&#xa;   }&#xa;&#xa;   switch ($i) {&#xa;      case 0:&#xa;           echo &quot;i &#xe9; igual a 0&quot;;&#xa;           break;&#xa;      case 1:&#xa;           echo &quot;i &#xe9; igual a 1&quot;;&#xa;           break;&#xa;      case 2:&#xa;           echo &quot;i &#xe9; igual a 2&quot;;&#xa;           break;&#xa;  }&#xa;  ?&gt;&#xa;&#xa;  &#xa;     Exemplo #2 A estrutura do switch permite o uso de strings&#xa;&#xa;  &#xa;   &lt;?php&#xa;   switch ($i) {&#xa;      case &quot;ma&#xe7;&#xe3;&quot;:&#xa;          echo &quot;i &#xe9; ma&#xe7;&#xe3;&quot;;&#xa;          break;&#xa;      case &quot;bar&quot;:&#xa;          echo &quot;i &#xe9; bar&quot;;&#xa;          break;&#xa;      case &quot;bolo&quot;:&#xa;         echo &quot;i &#xe9; bolo&quot;;&#xa;         break;&#xa;  }&#xa;  ?&gt;&#xa; &#xa;   &#xc9; importante entender como a declara&#xe7;&#xe3;o switch &#xe9; executada a fim de evitar enganos. A decla&#xe7;&#xe3;o switch &#xa;executa linha por linha (na verdade, declara&#xe7;&#xe3;o por declara&#xe7;&#xe3;o). No in&#xed;cio nenhum c&#xf3;digo &#xe9; executado. Somente &#xa;quando uma declara&#xe7;&#xe3;o case &#xe9; encontrada, cuja express&#xe3;o avalia um valor que corresponde ao valor do switch, &#xa;o PHP come&#xe7;ar&#xe1; a executar a declara&#xe7;&#xe3;o. O PHP continuar&#xe1; a executar a declara&#xe7;&#xe3;o at&#xe9; o fim do bloco switch, &#xa;ou at&#xe9; a primeira declara&#xe7;&#xe3;o break encontrada. Se n&#xe3;o for escrita uma declara&#xe7;&#xe3;o break ao final da lista de &#xa;declara&#xe7;&#xf5;es do case, o PHP continuar&#xe1; executando as declara&#xe7;&#xf5;es dos pr&#xf3;ximos cases. Por exemplo:&#xa;&#xa;   &lt;?php&#xa;    switch ($i) {&#xa;       case 0:&#xa;          echo &quot;i &#xe9; igual a 0&quot;;&#xa;       case 1:&#xa;          echo &quot;i &#xe9; igual a 1&quot;;&#xa;       case 2:&#xa;          echo &quot;i &#xe9; igual a 2&quot;;&#xa;  }&#xa;  ?&gt;&#xa;&#xa; &#xa;     Neste exemplo, se a vari&#xe1;vel $i for igual a 0, o PHP executar&#xe1; todos as declara&#xe7;&#xf5;es echo! Se a vari&#xe1;vel $i for igual a 1, &#xa;o PHP executar&#xe1; as duas &#xfa;ltimas declara&#xe7;&#xf5;es echo. Somente se obter&#xe1; o comportamento esperado (&apos;i equals 2&apos; ser&#xe1; exibido), &#xa;se $i for igual a 2. Sendo assim, &#xe9; importante n&#xe3;o esquecer as declara&#xe7;&#xf5;es break (mesmo quando se quer evitar, de prop&#xf3;sito, &#xa;sua omiss&#xe3;o em certas circunst&#xe2;ncias).&#xa;&#xa;    Em uma declara&#xe7;&#xe3;o switch, a condi&#xe7;&#xe3;o &#xe9; avaliada somente uma vez, e o resultado &#xe9; comparado a cada declara&#xe7;&#xe3;o case. Em uma d&#xa;eclara&#xe7;&#xe3;o elseif. a condi&#xe7;&#xe3;o &#xe9; avaliada outra vez. Se a condi&#xe7;&#xe3;o for mais complicada que uma simples compara&#xe7;&#xe3;o e/ou est&#xe1; em um &#xa;la&#xe7;o pequeno, a declara&#xe7;&#xe3;o switch pode ser mais r&#xe1;pida.&#xa;&#xa;    A lista de declara&#xe7;&#xf5;es de um case tamb&#xe9;m podem estar vazia, passando o controle da lista de declara&#xe7;&#xf5;es para o pr&#xf3;ximo case.&#xa;&#xa;   &#xa;   &lt;?php&#xa;   switch ($i) {&#xa;      case 0:&#xa;      case 1:&#xa;      case 2:&#xa;           echo &quot;i &#xe9; menor que 3 mas n&#xe3;o &#xe9; negativo&quot;;&#xa;           break;&#xa;      case 3:&#xa;           echo &quot;i &#xe9; 3&quot;;&#xa;   }&#xa;   ?&gt;&#xa;&#xa;   &#xa;    Um case especial &#xe9; o default. Este case corresponde a tudo que n&#xe3;o foi correspondido pelos outros cases. Por exemplo:&#xa;&#xa;&#xa;    &lt;?php&#xa;    switch ($i) {&#xa;        case 0:&#xa;          echo &quot;i &#xe9; igual a 0&quot;;&#xa;          break;&#xa;       case 1:&#xa;          echo &quot;i &#xe9; igual a 1&quot;;&#xa;          break;&#xa;       case 2:&#xa;          echo &quot;i &#xe9; igual a 2&quot;;&#xa;          break;&#xa;       default:&#xa;          echo &quot;i n&#xe3;o &#xe9; igual a 0, 1 ou 2&quot;;&#xa;   }&#xa;   ?&gt;&#xa;&#xa;   &#xa;    Nota: M&#xfa;ltiplos casos padr&#xf5;es ir&#xe3;o emitir um erro E_COMPILE_ERROR.&#xa;&#xa;    A sintaxe alternativa das estruturas de controle &#xe9; suportada por switches. Para mais informa&#xe7;&#xf5;es, veja Sintaxe &#xa;alternativa para estruturas de controle.&#xa;&#xa;   &#xa;   &lt;?php&#xa;   switch ($i):&#xa;       case 0:&#xa;          echo &quot;i &#xe9; igual a 0&quot;;&#xa;          break;&#xa;       case 1:&#xa;          echo &quot;i &#xe9; igual a 1&quot;;&#xa;          break;&#xa;       case 2:&#xa;          echo &quot;i &#xe9; igual a 2&quot;;&#xa;          break;&#xa;       default:&#xa;          echo &quot;i n&#xe3;o &#xe9; igual a 0, 1 ou 2&quot;;&#xa;   endswitch;&#xa;   ?&gt;&#xa;&#xa;&#xa;   &#xc9; poss&#xed;vel utilizar o ponto e v&#xed;rgula ao inv&#xe9;s dos dois pontos em um case, como:&#xa;&#xa;&#xa;   &lt;?php&#xa;   switch($cerveja)&#xa;  {&#xa;       case &apos;amstel&apos;;&#xa;       case &apos;stella artois&apos;;&#xa;       case &apos;heineken&apos;;&#xa;          echo &apos;Boa escolha&apos;;&#xa;          break;&#xa;      default;&#xa;         echo &apos;Por favor fa&#xe7;a uma nova sele&#xe7;&#xe3;o...&apos;;&#xa;         break;&#xa;  }&#xa;  ?&gt;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/img/Tapet-navy-silver.jpg"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="jLabel4"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1000" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>

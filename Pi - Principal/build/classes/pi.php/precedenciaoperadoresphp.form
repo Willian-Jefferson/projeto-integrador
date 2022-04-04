@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.8" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel3"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,3,-24,0,0,3,-26"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="jButton3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&lt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="30" y="480" width="-1" height="80"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Voltar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="840" y="920" width="90" height="30"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="48" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="PHP"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="400" y="90" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="36" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Precedencia de Operadores "/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="220" y="150" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="150" y="260" width="660" height="540"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea2">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="lineWrap" type="boolean" value="true"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="     A preced&#xea;ncia de um operador especifica quem tem mais prioridade quando h&#xe1; duas delas juntas. Por exemplo, na express&#xe3;o 1 + 5 * 3, a resposta &#xe9; 16 e n&#xe3;o 18 porque o operador de multiplica&#xe7;&#xe3;o (&quot;*&quot;) tem prioridade de preced&#xea;ncia que o operador de adi&#xe7;&#xe3;o (&quot;+&quot;). Par&#xea;nteses podem ser utilizados para for&#xe7;ar a preced&#xea;ncia, se necess&#xe1;rio. Assim, (1 + 5) * 3 &#xe9; avaliado como 18.&#xa;&#xa;     Quando operadores tem preced&#xea;ncia igual a associatividade decide como os operadores s&#xe3;o agrupados. Por exemplo &quot;-&quot; &#xe9; associado &#xe0; esquerda, de forma que 1 - 2 - 3 &#xe9; agrupado como (1 - 2) - 3 e resulta em -4. &quot;=&quot; por outro lado associa para a direita, de forma que $a = $b = $c &#xe9; agrupado como $a = ($b = $c).&#xa;&#xa;     Operadores de igual preced&#xea;ncia sem associatividade n&#xe3;o podem ser utilizados uns pr&#xf3;ximos aos outros. Por exemplo 1 &lt; 2 &gt; 1 &#xe9; ilegal no PHP. A express&#xe3;o 1 &lt;= 1 == 1 por outro lado &#xe9; v&#xe1;lida, porque o operador == tem menor preced&#xea;ncia que o operador &lt;=.&#xa;&#xa;     O uso de parenteses, embora n&#xe3;o estritamente necess&#xe1;rio, pode melhorar a leitura do c&#xf3;digo ao deixar o agrupamento expl&#xed;cito em vez de depender da associatividade e preced&#xea;ncias impl&#xed;citos.&#xa;&#xa;     A tabela seguinte mostra a preced&#xea;ncia dos operadores, com a maior preced&#xea;ncia no come&#xe7;o. Operadores com a mesma preced&#xea;ncia est&#xe3;o na mesma linha, nesses casos a associatividade deles decidir&#xe1; qual ordem eles ser&#xe3;o avaliados.&#xa;&#xa;&#xa;       Preced&#xea;ncia dos operadores&#xa; &#xa;      Associa&#xe7;&#xe3;o:&#x9;Operadores:&#x9;Informa&#xe7;&#xe3;o Adicional:&#xa;      n&#xe3;o associativo&#x9;clone new&#x9;clone e new&#xa;      esquerda&#x9;        [&#x9;        array()&#xa;      direita&#x9;        **&#x9;        aritm&#xe9;tica&#xa;      direita&#x9;        ++ -- ~ (int)   types e incremento/decremento&#xa;                       (float) (string) &#xa;                       (array) (object) &#xa;                       (bool) @&#x9;      &#xa;      n&#xe3;o associativo  instanceof&#x9;tipos&#xa;      direita&#x9;        !&#x9;        l&#xf3;gicos&#xa;      esquerda&#x9;       * / %&#x9;        aritm&#xe9;tica&#xa;      esquerda&#x9;       + - .&#x9;        aritm&#xe9;tica e string&#xa;      esquerda         &lt;&lt; &gt;&gt;&#x9;        bits&#xa;      n&#xe3;o associativo  &lt; &lt;= &gt; &gt;=&#x9;compara&#xe7;&#xe3;o&#xa;      n&#xe3;o associativo  == != ===        compara&#xe7;&#xe3;o&#xa;                       !== &lt;&gt; &lt;=&gt;&#x9;&#xa;      esquerda&#x9;       &amp;&#x9;        bits e refer&#xea;ncias&#xa;      esquerda&#x9;       ^&#x9;        bits&#xa;      esquerda&#x9;       |&#x9;        bits&#xa;      esquerda&#x9;       &amp;&amp;&#x9;        l&#xf3;gicos&#xa;      esquerda&#x9;       ||&#x9;        l&#xf3;gicos&#xa;      direita&#x9;       ??&#x9;        compara&#xe7;&#xe3;o&#xa;      esquerda&#x9;       ? :&#x9;        tern&#xe1;rio&#xa;      direita&#x9;       = += -= *=       atribui&#xe7;&#xe3;o&#xa;                       **= /= .= &#xa;                       %= &amp;= |= ^= &#xa;                       &lt;&lt;= &gt;&gt;=&#x9;&#xa;      esquerda&#x9;       and&#x9;        l&#xf3;gicos&#xa;      esquerda&#x9;       xor&#x9;        l&#xf3;gicos&#xa;      esquerda&#x9;       or&#x9;        l&#xf3;gicos&#xa;&#xa;&#xa;      Exemplo #1 Associa&#xe7;&#xe3;o&#xa;&#xa; &lt;?php&#xa; $a = 3 * 3 % 5; // (3 * 3) % 5 = 4&#xa; // associa&#xe7;&#xe3;o do operador tern&#xe1;rio difere do C/C++&#xa; $a = true ? 0 : true ? 1 : 2; // (true ? 0 : true) ? 1 : 2 = 2&#xa;&#xa; $a = 1;&#xa; $b = 2;&#xa; $a = $b += 3; // $a = ($b += 3) -&gt; $a = 5, $b = 5&#xa; ?&gt;&#xa;&#xa;      A preced&#xea;ncia e associatividade apenas determinam como as express&#xf5;es s&#xe3;o agrupadas, mas n&#xe3;o especificam a ordem de avalia&#xe7;&#xe3;o. O PHP (geralmente) n&#xe3;o especifica em que ordem as express&#xf5;es s&#xe3;o avaliadas, ent&#xe3;o c&#xf3;digos que assumem ordens espec&#xed;ficas de avalia&#xe7;&#xe3;o devem ser evitados porque o comportamento pode ser alterado entre vers&#xf5;es do PHP ou dependendo do c&#xf3;digo em volta.&#xa;&#xa;    Exemplo #2 Ordem de avalia&#xe7;&#xe3;o n&#xe3;o definida&#xa;&#xa; &lt;?php&#xa; $a = 1;&#xa; echo $a + $a++; // pode imprimir 2 ou 3&#xa;&#xa; $i = 1;&#xa; $array[$i] = $i++; // pode definir o &#xed;ndice 1 ou 2&#xa; ?&gt;&#xa;&#xa;    Exemplo #3 +, - and . possuem a mesma preced&#xea;ncia&#xa;&#xa; &lt;?php&#xa; $x = 4;&#xa; // esta linha pode resultar em uma sa&#xed;da inesperada:&#xa; echo &quot;x menos um &#xe9; igual a &quot; . $x-1 . &quot;, ou assim eu espero\u005cn&quot;;&#xa; // porque &#xe9; avaliada como esta linha:&#xa; echo ((&quot;x menos um &#xe9; igual a &quot; . $x) - 1) . &quot;, ou assim eu espero\u005cn&quot;;&#xa; // a preced&#xea;ncia desejada pode ser aplicada utilizando par&#xea;nteses:&#xa; echo &quot;x menos um &#xe9; igual a &quot; . ($x-1) . &quot;, ou assim eu espero\u005cn&quot;;&#xa; ?&gt;&#xa; &#xa;    O exemplo acima ir&#xe1; imprimir:&#xa;&#xa; -1, ou assim eu espero&#xa; -1, ou assim eu espero&#xa; x menos um &#xe9; igual a 3, ou assim eu espero&#xa;&#xa;    Nota:&#xa;&#xa;    Embora o = tenha uma preced&#xea;ncia menor que a maioria dos operadores, o PHP ainda permite express&#xf5;es similares a if (!$a = foo()), onde o valor retornado de foo() &#xe9; colocado em $a." containsInvalidXMLChars="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/img/Tapet-navy-silver.jpg"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="jLabel4"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1000" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>

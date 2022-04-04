@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="2"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" pref="225" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="jLabel3" max="32767" attributes="0"/>
+                          <Component id="jScrollPane1" pref="656" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jScrollPane1" min="-2" pref="484" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jLabel3" min="-2" pref="292" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+            <MatteColorBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Microsoft Sans Serif" size="15" style="1"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Java &#xe9; uma linguagem de programa&#xe7;&#xe3;o orientada a objetos que come&#xe7;ou a ser &#xa;criada em 1991, na Sun Microsystems. Teve inicio com o Green Project, no qual&#xa;os mentores foram Patrick Naughton, Mike Sheridan, e James Gosling. &#xa;Este projeto n&#xe3;o tinha inten&#xe7;&#xe3;o de criar uma linguagem de programa&#xe7;&#xe3;o,&#xa;mas sim de antecipar a &#x201c;pr&#xf3;xima onda&#x201d; que aconteceria na &#xe1;rea da inform&#xe1;tica &#xa;eprograma&#xe7;&#xe3;o. Os idealizadores do projeto acreditavam que em pouco tempo os&#xa;aparelhos dom&#xe9;sticos e os computadores teriam uma liga&#xe7;&#xe3;o.  &#xa;&#xa;A primeira inven&#xe7;&#xe3;o desta equipe foi o *7 (StarSeven), um controle remoto com &#xa;interface touchscreen, o aparelho tinha um &#x201c;mascote&#x201d; que ensinava o usu&#xe1;rio a &#xa;utilizar o controle. Um dos desenvolvedores do controle nomeou a linguagem de &#xa;programa&#xe7;&#xe3;o de Oak, o nome de uma &#xe1;rvore. Este controle foi um antecessor da &#xa;ideia de intera&#xe7;&#xe3;o digital, que esta presente nos televisores digitais &#xa;atualmente, infelizmente a tecnologia da &#xe9;poca n&#xe3;o estava preparada para &#xa;tamanho avan&#xe7;o.&#xa;&#xa;&#xa;Nesta &#xe9;poca, a internet estava ficando cada vez mais popular, e a equipe do &#xa;Green Project come&#xe7;ou a pensar em aplica&#xe7;&#xf5;es para o Oak na internet, onde a &#xa;palavra chave &#xe9; intera&#xe7;&#xe3;o. Eles conseguiram adaptar a linguagem Oak para a &#xa;internet, e em 1995 foi lan&#xe7;ado o Java, que era uma vers&#xe3;o atualizada do Oak&#xa;para a internet.&#xa;&#xa;&#xa;A tecnologia Java teve uma enorme utiliza&#xe7;&#xe3;o, e logo grandes empresas &#xa;como a IBM, anunciaram que estariam dando suporte ao Java, ou seja, os &#xa;produtos destas empresas iriam rodar aplicativos feitos em Java. &#xa;Estimativas apontam que a tecnologia Java foi a mais rapidamente incorporada &#xa;na historia da inform&#xe1;tica. Em 2003 o Java j&#xe1; tinha mais de 4 milh&#xf5;es de &#xa;desenvolvedores. A ideia inicial do Green Project come&#xe7;ou a se concretizar.&#xa; A linguagem deles passou a ser utilizada em dezenas de produtos diferentes. &#xa;Computadores, celulares, palmtops, e a maioria dos produtos da Apple.&#xa;&#xa;Em 2006 muitas partes do Java estavam sendo passadas para a licen&#xe7;a de &#xa;Software livre, e a maioria j&#xe1; estava dispon&#xed;vel para o publico gratuitamente,&#xa;tudo Sob licen&#xe7;a GNU.  O Java foi uma revolu&#xe7;&#xe3;o na interatividade, sua &#xa;utiliza&#xe7;&#xe3;o aumenta a cada dia. Java &#xe9; uma linguagem relativamente simples e &#xa;din&#xe2;mica, permite criar programas e aplica&#xe7;&#xf5;es para a Web sem depender de &#xa;outra linguagem.&#xa;&#xa;Refer&#xea;ncias:&#xa;https://www.infoescola.com/informatica/historia-do-java/&#xa;http://www.ufpa.br/dicas/htm/htm-scrip.htm&#xa;http://www.java.com/pt_BR/download/faq/whatis_java.xml&#xa;http://www.criarweb.com/artigos/164.php"/>
+            <Property name="autoscrolls" type="boolean" value="false"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Cursor Padr&#xe3;o"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Microsoft Sans Serif" size="36" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Hist&#xf3;ria do JAVA"/>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+            <MatteColorBorder/>
+          </Border>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sair"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/pi/java/latest-java-6-638 (1).jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
